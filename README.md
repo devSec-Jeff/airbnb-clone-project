@@ -31,3 +31,21 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 3. Bookings
 4. Payments
 5. Reviews
+
+## Features
+1. User Authentication - Register new users, authenticate, and manage user profiles.
+2. Property Management - Create, update, retrieve, and delete property listings.
+3. Booking System - Make, update, and manage bookings, including check-in and check-out details.
+4. Payment Processing - Handle payment transactions related to bookings.
+5. Review System - Post and manage reviews for properties.
+
+## API Security
+API Security practices implemented for protecting user data, securing payments, etc.
+1.  Authentication
+2.  Authorization
+3.  Rate limiting
+
+## CI/CD Pipeline
+Automated pipelines for testing and deploying code changes.
+1. GitHub Actions
+2. Docker, etc
